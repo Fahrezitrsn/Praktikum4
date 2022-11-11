@@ -1,0 +1,11 @@
+package BangunDatar;
+//Membuat superclass BangunDatar
+public class BangunDatar {
+
+    public void luas(){
+        System.out.println("Luas dari Bangun Datar");
+    }
+    public void keliling(){
+        System.out.println("Keliling dari Bangun Datar");
+    }
+}
